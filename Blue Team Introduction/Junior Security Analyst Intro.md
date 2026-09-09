@@ -1,4 +1,4 @@
-# Junior Security Analyst Intro 🛡️
+# Junior Security Analyst Intro 
 
 ## Overview
 
