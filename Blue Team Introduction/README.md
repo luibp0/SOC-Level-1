@@ -36,7 +36,3 @@ This module introduces the fundamentals of Blue Team operations and defensive cy
 ## Goal
 
 The goal of this module is to build a strong foundation in defensive cybersecurity and understand the core responsibilities of a Blue Team and SOC Analyst.
-
----
-
-> Part of my **SOC Level 1** cybersecurity learning journey.
